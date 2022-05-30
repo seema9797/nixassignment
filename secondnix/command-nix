@@ -1,0 +1,5 @@
+ Q1...   uptime   free
+ Q4..   netstat -ltnp |grep-w ':80'
+ Q5...    cat file.txt | grep -o 'hello' | wc -l
+ Q6...  sudo systeml status myservice
+ Q9...   df -h --total
